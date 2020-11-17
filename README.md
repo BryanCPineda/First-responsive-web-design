@@ -1,14 +1,13 @@
 # First-responsive-web-desing
 
 ## Introduction
+This is a basic proyect introducing LESS (Pre-processor). It could be interesting to try out for beginner in responsive design using a preproccesor instead common css.
 
-This is a first basic proyect using LESS (Pre-processor). #SoyHenry Academy. 
-#Responsive web desing.
-
+ #SoyHenry Academy. #Responsive web desing.
 
 ## Try Out
-
 After clone the respository, open the destination folder and double click on `index.html`
+
 
 ### Home-desktop
 
