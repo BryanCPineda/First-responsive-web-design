@@ -1,4 +1,4 @@
-# First-responsive-web-desing
+# First-responsive-web-design
 
 ## Introduction
 This is a basic proyect introducing LESS (Pre-processor). It could be interesting to try out for beginner in responsive design using a preproccesor instead common css.
